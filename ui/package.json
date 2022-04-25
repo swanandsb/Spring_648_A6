@@ -1,7 +1,7 @@
 {
-  "name": "assignment5-ui",
+  "name": "assignment6",
   "version": "1.0.0",
-  "description": "MERN Stack Assignment 5 UI",
+  "description": "UI",
   "main": "index.js",
   "scripts": {
     "#start": "To start UI server. HMR is enabled in dev mode.",
@@ -16,14 +16,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/pooja97/assignment6.git"
+    "url": "git+https://github.com/swanandsb/Spring_648_A6.git.git"
   },
-  "author": "Pooja Yadav",
+  "author": "Swanand",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/pooja97/assignment6/issues"
+    "url": "https://github.com/swanandsb/Spring_648_A6.git"
   },
-  "homepage": "https://github.com/pooja97/assignment6#readme",
+  "homepage": "https://github.com/swanandsb/Spring_648_A6.git#readme",
   "dependencies": {
     "babel-polyfill": "^6.26.0",
     "bootstrap": "^3.4.1",
