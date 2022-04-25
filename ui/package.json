@@ -16,14 +16,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/swanandsb/Spring_648_A6.git.git"
+    "url": "git+https://github.com/swanandsb/Spring_648_A6.git"
   },
   "author": "Swanand",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/swanandsb/Spring_648_A6.git"
+    "url": "https://github.com/swanandsb/Spring_648_A6"
   },
-  "homepage": "https://github.com/swanandsb/Spring_648_A6.git#readme",
+  "homepage": "https://github.com/swanandsb/Spring_648_A6#readme",
   "dependencies": {
     "babel-polyfill": "^6.26.0",
     "bootstrap": "^3.4.1",
